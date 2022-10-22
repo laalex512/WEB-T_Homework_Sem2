@@ -1,0 +1,48 @@
+body{
+    margin: 10px 300px;
+    font-family: Arial;
+}
+h1{
+    font-size: 35px;
+    color:grey;
+}
+h2{
+    font-size: 25px;
+    color:coral;
+}
+p{
+    width: 600px;
+    margin: 0px 30px;
+    font-size: 18px;
+    font-style: italic;
+}
+h3{
+    color:blue;
+}
+
+img{
+    width: 200px;
+}
+.Lists{
+    font-size: 20px;
+}
+ul{
+    list-style: square;
+}
+.FreeLinks{
+    margin-left: 200px;
+}
+.Links{
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+.PrivateText{
+    font-weight: 700;
+    font-style:normal;
+    color:brown;
+}
+.TextWithLinks{
+    font-size: 30px;
+    font-style: normal;
+    padding: 50px;
+}
